@@ -1,22 +1,22 @@
 {
-  "tabWidth": 2,
-  "useTabs": true,
-  "semi": true,
-  "singleQuote": true,
-  "trailingComma": "es5",
-  "printWidth": 150,
-  "arrowParens": "avoid",
-  "importOrders": [
-    "<THIRD_PARTY_MODULES",
-    "^@/components/(.*)$",
-    "^@/hooks/(.*)$",
-    "^@/services/(.*)$",
-    "^@/assents/(.*)$",
-    "^@/providers/(.*)$",
-    "^@/types/(.*)$",
-    "^../(.*)$",
-    "^./(.*)$"
-  ],
-  "importOrderSeparation": true,
-  "importOrderSortSpecifiers": true
+	"tabWidth": 2,
+	"useTabs": true,
+	"semi": true,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"printWidth": 150,
+	"arrowParens": "avoid",
+	"importOrders": [
+		"<THIRD_PARTY_MODULES",
+		"^@/components/(.*)$",
+		"^@/hooks/(.*)$",
+		"^@/services/(.*)$",
+		"^@/assents/(.*)$",
+		"^@/providers/(.*)$",
+		"^@/types/(.*)$",
+		"^../(.*)$",
+		"^./(.*)$"
+	],
+	"importOrderSeparation": true,
+	"importOrderSortSpecifiers": true
 }
